@@ -1,0 +1,1001 @@
+age,gender,time_spent,demographics,age_category
+56,male,3,Urban,Aged
+46,female,2,Urban,Adults
+32,male,8,Sub_Urban,Adults
+60,non-binary,5,Urban,Aged
+25,male,1,Urban,Young Adults
+38,male,3,Urban,Adults
+56,male,8,Urban,Aged
+36,male,4,Urban,Adults
+40,non-binary,7,Sub_Urban,Adults
+28,non-binary,2,Sub_Urban,Young Adults
+28,female,7,Urban,Young Adults
+41,non-binary,5,Sub_Urban,Adults
+53,non-binary,5,Rural,Aged
+57,female,6,Urban,Aged
+41,non-binary,9,Rural,Adults
+20,male,6,Sub_Urban,Young Adults
+39,male,8,Sub_Urban,Adults
+19,female,7,Rural,Young Adults
+41,female,9,Sub_Urban,Adults
+61,female,4,Urban,Aged
+47,male,2,Rural,Adults
+55,non-binary,7,Urban,Aged
+19,male,6,Rural,Young Adults
+38,female,1,Sub_Urban,Adults
+50,non-binary,9,Rural,Adults
+29,non-binary,9,Rural,Young Adults
+39,male,2,Urban,Adults
+61,female,3,Sub_Urban,Aged
+42,male,5,Urban,Adults
+44,non-binary,5,Sub_Urban,Adults
+59,male,1,Urban,Aged
+45,male,8,Rural,Adults
+33,female,8,Urban,Adults
+32,female,4,Sub_Urban,Adults
+64,non-binary,7,Sub_Urban,Aged
+61,male,3,Rural,Aged
+20,male,6,Sub_Urban,Young Adults
+54,male,9,Urban,Aged
+24,non-binary,1,Rural,Young Adults
+38,non-binary,5,Sub_Urban,Adults
+26,female,4,Sub_Urban,Young Adults
+56,female,8,Urban,Aged
+35,female,1,Urban,Adults
+21,male,9,Rural,Young Adults
+42,male,6,Sub_Urban,Adults
+31,female,4,Urban,Adults
+26,male,9,Rural,Young Adults
+43,female,5,Sub_Urban,Adults
+19,non-binary,5,Sub_Urban,Young Adults
+37,female,5,Rural,Adults
+45,non-binary,1,Rural,Adults
+64,male,1,Urban,Aged
+24,female,8,Sub_Urban,Young Adults
+61,male,8,Sub_Urban,Aged
+25,non-binary,6,Sub_Urban,Young Adults
+64,non-binary,4,Rural,Aged
+52,non-binary,2,Urban,Aged
+31,male,2,Sub_Urban,Adults
+34,male,9,Rural,Adults
+53,male,5,Sub_Urban,Aged
+57,male,4,Urban,Aged
+21,non-binary,1,Sub_Urban,Young Adults
+19,non-binary,7,Urban,Young Adults
+23,female,3,Urban,Young Adults
+59,female,6,Sub_Urban,Aged
+21,male,5,Sub_Urban,Young Adults
+46,non-binary,5,Urban,Adults
+35,non-binary,5,Rural,Adults
+43,non-binary,1,Urban,Adults
+61,female,1,Sub_Urban,Aged
+51,female,3,Sub_Urban,Aged
+27,non-binary,4,Rural,Young Adults
+53,non-binary,5,Urban,Aged
+31,non-binary,2,Urban,Adults
+48,female,8,Urban,Adults
+32,non-binary,2,Sub_Urban,Adults
+25,non-binary,9,Urban,Young Adults
+31,male,2,Rural,Adults
+40,male,9,Sub_Urban,Adults
+57,female,7,Sub_Urban,Aged
+38,non-binary,8,Urban,Adults
+33,non-binary,2,Rural,Adults
+62,male,7,Sub_Urban,Aged
+35,female,6,Sub_Urban,Adults
+64,male,4,Urban,Aged
+41,male,7,Urban,Adults
+43,male,4,Rural,Adults
+42,male,2,Urban,Adults
+62,non-binary,7,Rural,Aged
+58,non-binary,8,Sub_Urban,Aged
+46,male,2,Rural,Adults
+32,female,5,Rural,Adults
+62,female,1,Rural,Aged
+18,female,7,Sub_Urban,Young Adults
+42,female,8,Urban,Adults
+24,male,6,Sub_Urban,Young Adults
+26,non-binary,5,Urban,Young Adults
+41,female,6,Rural,Adults
+18,male,2,Rural,Young Adults
+61,female,1,Rural,Aged
+25,female,7,Rural,Young Adults
+41,male,7,Rural,Adults
+28,non-binary,2,Urban,Young Adults
+34,non-binary,2,Urban,Adults
+25,male,1,Rural,Young Adults
+52,non-binary,8,Sub_Urban,Aged
+52,male,8,Sub_Urban,Aged
+50,male,1,Rural,Adults
+22,male,8,Urban,Young Adults
+59,non-binary,9,Sub_Urban,Aged
+56,male,4,Sub_Urban,Aged
+58,female,1,Sub_Urban,Aged
+45,non-binary,1,Rural,Adults
+24,non-binary,3,Sub_Urban,Young Adults
+26,non-binary,5,Sub_Urban,Young Adults
+25,non-binary,5,Sub_Urban,Young Adults
+29,female,9,Sub_Urban,Young Adults
+51,non-binary,2,Urban,Aged
+50,non-binary,2,Rural,Adults
+40,male,6,Rural,Adults
+41,non-binary,9,Urban,Adults
+54,female,1,Urban,Aged
+52,female,9,Rural,Aged
+61,female,9,Sub_Urban,Aged
+57,female,9,Sub_Urban,Aged
+39,non-binary,5,Rural,Adults
+44,non-binary,9,Sub_Urban,Adults
+52,female,4,Urban,Aged
+18,female,2,Sub_Urban,Young Adults
+52,non-binary,6,Sub_Urban,Aged
+54,female,4,Sub_Urban,Aged
+64,male,6,Rural,Aged
+31,female,3,Urban,Adults
+20,female,6,Sub_Urban,Young Adults
+18,male,2,Rural,Young Adults
+22,male,2,Sub_Urban,Young Adults
+43,non-binary,9,Urban,Adults
+31,non-binary,7,Sub_Urban,Adults
+56,male,3,Urban,Aged
+44,male,1,Sub_Urban,Adults
+26,non-binary,8,Urban,Young Adults
+32,female,6,Sub_Urban,Adults
+32,male,7,Urban,Adults
+43,non-binary,9,Sub_Urban,Adults
+59,female,5,Sub_Urban,Aged
+30,male,1,Rural,Young Adults
+49,female,7,Rural,Adults
+56,non-binary,5,Urban,Aged
+49,male,3,Sub_Urban,Adults
+21,female,9,Urban,Young Adults
+47,male,1,Rural,Adults
+54,female,1,Urban,Aged
+40,non-binary,1,Urban,Adults
+56,non-binary,3,Rural,Aged
+62,male,6,Sub_Urban,Aged
+32,female,3,Urban,Adults
+60,male,8,Rural,Aged
+46,male,2,Sub_Urban,Adults
+53,female,9,Rural,Aged
+30,female,3,Urban,Young Adults
+49,female,5,Sub_Urban,Adults
+24,non-binary,8,Sub_Urban,Young Adults
+39,male,2,Rural,Adults
+45,male,6,Rural,Adults
+19,non-binary,5,Rural,Young Adults
+59,female,9,Sub_Urban,Aged
+62,non-binary,5,Sub_Urban,Aged
+23,non-binary,2,Urban,Young Adults
+45,non-binary,5,Sub_Urban,Adults
+45,male,4,Urban,Adults
+61,non-binary,7,Rural,Aged
+61,male,6,Rural,Aged
+37,male,2,Sub_Urban,Adults
+47,male,5,Rural,Adults
+28,female,7,Rural,Young Adults
+45,male,7,Sub_Urban,Adults
+42,male,5,Urban,Adults
+56,female,9,Sub_Urban,Aged
+50,male,4,Urban,Adults
+18,non-binary,3,Sub_Urban,Young Adults
+44,non-binary,4,Sub_Urban,Adults
+30,male,5,Rural,Young Adults
+58,female,6,Sub_Urban,Aged
+20,non-binary,3,Sub_Urban,Young Adults
+56,female,2,Urban,Aged
+23,female,4,Rural,Young Adults
+25,non-binary,5,Urban,Young Adults
+44,female,4,Urban,Adults
+26,non-binary,3,Rural,Young Adults
+54,female,8,Rural,Aged
+50,non-binary,4,Rural,Adults
+59,male,2,Sub_Urban,Aged
+61,non-binary,2,Rural,Aged
+41,non-binary,1,Rural,Adults
+32,non-binary,4,Rural,Adults
+49,non-binary,9,Urban,Adults
+49,female,7,Urban,Adults
+41,male,7,Sub_Urban,Adults
+58,non-binary,7,Urban,Aged
+29,female,8,Sub_Urban,Young Adults
+56,male,1,Urban,Aged
+19,male,8,Rural,Young Adults
+20,male,4,Urban,Young Adults
+54,male,4,Sub_Urban,Aged
+34,non-binary,4,Urban,Adults
+19,non-binary,6,Rural,Young Adults
+19,female,7,Sub_Urban,Young Adults
+45,female,6,Rural,Adults
+40,female,1,Rural,Adults
+54,male,8,Sub_Urban,Aged
+49,male,7,Rural,Adults
+50,non-binary,6,Rural,Adults
+18,male,6,Urban,Young Adults
+36,male,5,Rural,Adults
+19,male,6,Rural,Young Adults
+61,female,9,Rural,Aged
+43,female,9,Rural,Adults
+49,non-binary,8,Sub_Urban,Adults
+23,male,9,Urban,Young Adults
+49,male,8,Rural,Adults
+21,non-binary,8,Rural,Young Adults
+28,male,1,Sub_Urban,Young Adults
+34,male,5,Rural,Adults
+55,female,4,Sub_Urban,Aged
+41,non-binary,2,Urban,Adults
+22,non-binary,8,Urban,Young Adults
+51,non-binary,3,Rural,Aged
+23,non-binary,4,Rural,Young Adults
+39,female,7,Rural,Adults
+28,female,9,Sub_Urban,Young Adults
+33,male,2,Rural,Adults
+50,male,3,Rural,Adults
+26,male,4,Urban,Young Adults
+23,male,1,Rural,Young Adults
+33,female,7,Urban,Adults
+46,non-binary,2,Rural,Adults
+20,female,5,Urban,Young Adults
+37,male,1,Rural,Adults
+53,female,3,Urban,Aged
+36,non-binary,2,Sub_Urban,Adults
+43,non-binary,1,Urban,Adults
+20,female,7,Urban,Young Adults
+36,female,5,Urban,Adults
+37,female,1,Rural,Adults
+49,male,6,Rural,Adults
+24,female,5,Rural,Young Adults
+58,female,3,Sub_Urban,Aged
+50,female,7,Sub_Urban,Adults
+57,non-binary,9,Urban,Aged
+56,non-binary,9,Sub_Urban,Aged
+35,male,9,Urban,Adults
+57,male,2,Urban,Aged
+18,non-binary,3,Urban,Young Adults
+28,non-binary,7,Sub_Urban,Young Adults
+45,non-binary,5,Rural,Adults
+42,female,2,Sub_Urban,Adults
+40,female,3,Urban,Adults
+48,non-binary,6,Urban,Adults
+47,female,7,Sub_Urban,Adults
+59,female,9,Urban,Aged
+52,male,1,Urban,Aged
+24,non-binary,7,Sub_Urban,Young Adults
+33,non-binary,8,Sub_Urban,Adults
+43,female,3,Sub_Urban,Adults
+19,non-binary,4,Urban,Young Adults
+18,male,6,Urban,Young Adults
+29,male,7,Rural,Young Adults
+22,male,4,Rural,Young Adults
+54,non-binary,8,Sub_Urban,Aged
+49,non-binary,5,Rural,Adults
+26,non-binary,1,Urban,Young Adults
+58,non-binary,4,Rural,Aged
+52,non-binary,3,Urban,Aged
+36,male,9,Sub_Urban,Adults
+33,female,8,Sub_Urban,Adults
+20,male,1,Urban,Young Adults
+37,non-binary,6,Rural,Adults
+41,male,9,Sub_Urban,Adults
+50,non-binary,7,Sub_Urban,Adults
+41,non-binary,4,Rural,Adults
+28,male,1,Rural,Young Adults
+25,non-binary,2,Urban,Young Adults
+53,female,5,Rural,Aged
+55,non-binary,5,Rural,Aged
+57,female,8,Rural,Aged
+37,female,6,Urban,Adults
+52,non-binary,8,Urban,Aged
+42,male,2,Sub_Urban,Adults
+52,female,3,Urban,Aged
+42,male,6,Sub_Urban,Adults
+46,female,3,Rural,Adults
+35,non-binary,6,Sub_Urban,Adults
+63,non-binary,6,Sub_Urban,Aged
+35,female,2,Rural,Adults
+19,non-binary,7,Sub_Urban,Young Adults
+52,female,2,Urban,Aged
+33,non-binary,6,Urban,Adults
+58,male,1,Urban,Aged
+53,non-binary,3,Urban,Aged
+50,male,2,Sub_Urban,Adults
+21,non-binary,7,Sub_Urban,Young Adults
+50,male,4,Rural,Adults
+31,non-binary,8,Sub_Urban,Adults
+38,male,6,Sub_Urban,Adults
+37,female,4,Sub_Urban,Adults
+25,female,5,Rural,Young Adults
+24,male,9,Urban,Young Adults
+20,non-binary,7,Sub_Urban,Young Adults
+34,male,9,Rural,Adults
+50,non-binary,7,Rural,Adults
+29,female,1,Rural,Young Adults
+39,non-binary,8,Urban,Adults
+39,female,4,Sub_Urban,Adults
+63,non-binary,3,Rural,Aged
+47,non-binary,7,Urban,Adults
+55,non-binary,3,Rural,Aged
+55,male,8,Rural,Aged
+62,male,6,Rural,Aged
+25,female,5,Rural,Young Adults
+44,female,4,Rural,Adults
+44,male,8,Urban,Adults
+51,female,8,Sub_Urban,Aged
+38,male,1,Sub_Urban,Adults
+47,non-binary,9,Sub_Urban,Adults
+50,female,5,Sub_Urban,Adults
+45,female,4,Urban,Adults
+64,male,6,Urban,Aged
+50,female,6,Urban,Adults
+22,female,2,Rural,Young Adults
+36,non-binary,8,Rural,Adults
+21,female,7,Rural,Young Adults
+52,non-binary,1,Sub_Urban,Aged
+34,male,5,Rural,Adults
+61,female,6,Sub_Urban,Aged
+45,non-binary,4,Rural,Adults
+47,male,2,Sub_Urban,Adults
+46,female,4,Rural,Adults
+63,male,1,Rural,Aged
+23,female,7,Urban,Young Adults
+52,male,2,Rural,Aged
+58,male,2,Rural,Aged
+54,non-binary,9,Urban,Aged
+41,male,5,Sub_Urban,Adults
+46,female,2,Urban,Adults
+63,female,9,Urban,Aged
+48,non-binary,9,Sub_Urban,Adults
+52,female,1,Rural,Aged
+50,female,3,Sub_Urban,Adults
+38,female,4,Rural,Adults
+49,male,7,Rural,Adults
+40,male,4,Sub_Urban,Adults
+50,female,2,Urban,Adults
+20,non-binary,7,Sub_Urban,Young Adults
+35,male,6,Rural,Adults
+42,non-binary,3,Sub_Urban,Adults
+59,female,6,Sub_Urban,Aged
+48,female,6,Rural,Adults
+20,male,5,Urban,Young Adults
+57,female,4,Sub_Urban,Aged
+63,male,1,Rural,Aged
+41,female,6,Rural,Adults
+49,female,2,Sub_Urban,Adults
+64,male,3,Urban,Aged
+39,male,8,Sub_Urban,Adults
+40,male,6,Urban,Adults
+19,female,3,Urban,Young Adults
+44,female,7,Urban,Adults
+59,non-binary,4,Urban,Aged
+19,male,9,Sub_Urban,Young Adults
+43,female,5,Rural,Adults
+34,female,3,Rural,Adults
+57,male,2,Rural,Aged
+50,non-binary,2,Rural,Adults
+26,male,3,Rural,Young Adults
+60,non-binary,2,Rural,Aged
+56,female,4,Sub_Urban,Aged
+46,non-binary,2,Urban,Adults
+59,female,9,Rural,Aged
+43,male,2,Sub_Urban,Adults
+52,male,9,Rural,Aged
+42,male,6,Rural,Adults
+41,non-binary,1,Urban,Adults
+30,female,4,Urban,Young Adults
+24,male,1,Urban,Young Adults
+53,male,6,Rural,Aged
+62,female,4,Rural,Aged
+37,male,3,Rural,Adults
+18,female,3,Urban,Young Adults
+25,female,9,Sub_Urban,Young Adults
+63,female,6,Rural,Aged
+33,female,9,Rural,Adults
+31,female,5,Rural,Adults
+29,non-binary,2,Sub_Urban,Young Adults
+40,male,8,Rural,Adults
+32,non-binary,5,Sub_Urban,Adults
+45,male,2,Rural,Adults
+51,non-binary,4,Sub_Urban,Aged
+19,female,9,Rural,Young Adults
+49,male,4,Urban,Adults
+40,male,4,Urban,Adults
+39,non-binary,2,Urban,Adults
+42,non-binary,6,Urban,Adults
+39,male,2,Rural,Adults
+39,non-binary,7,Urban,Adults
+59,non-binary,3,Sub_Urban,Aged
+23,non-binary,3,Urban,Young Adults
+32,female,5,Urban,Adults
+60,female,3,Urban,Aged
+54,non-binary,2,Rural,Aged
+50,non-binary,9,Urban,Adults
+25,female,2,Sub_Urban,Young Adults
+61,female,2,Urban,Aged
+61,male,8,Urban,Aged
+22,male,9,Urban,Young Adults
+56,female,7,Sub_Urban,Aged
+21,non-binary,3,Urban,Young Adults
+23,non-binary,9,Sub_Urban,Young Adults
+62,non-binary,3,Sub_Urban,Aged
+49,non-binary,5,Urban,Adults
+47,male,9,Sub_Urban,Adults
+64,female,3,Rural,Aged
+52,non-binary,7,Urban,Aged
+57,male,1,Urban,Aged
+33,non-binary,4,Sub_Urban,Adults
+30,female,4,Sub_Urban,Young Adults
+59,male,7,Urban,Aged
+47,female,8,Rural,Adults
+36,female,1,Sub_Urban,Adults
+34,male,5,Sub_Urban,Adults
+36,male,7,Rural,Adults
+45,male,4,Rural,Adults
+43,male,4,Urban,Adults
+54,male,4,Rural,Aged
+43,male,6,Urban,Adults
+40,male,7,Rural,Adults
+26,non-binary,2,Sub_Urban,Young Adults
+29,female,5,Urban,Young Adults
+18,male,4,Urban,Young Adults
+18,non-binary,3,Urban,Young Adults
+64,non-binary,7,Rural,Aged
+51,non-binary,6,Sub_Urban,Aged
+49,female,7,Urban,Adults
+42,male,5,Urban,Adults
+57,non-binary,6,Urban,Aged
+62,female,5,Urban,Aged
+18,female,7,Sub_Urban,Young Adults
+33,female,2,Rural,Adults
+56,non-binary,5,Sub_Urban,Aged
+22,male,6,Urban,Young Adults
+39,non-binary,6,Sub_Urban,Adults
+46,non-binary,5,Urban,Adults
+20,male,7,Rural,Young Adults
+29,male,8,Rural,Young Adults
+43,male,7,Rural,Adults
+33,female,5,Urban,Adults
+54,male,1,Sub_Urban,Aged
+39,non-binary,5,Rural,Adults
+46,male,2,Urban,Adults
+31,non-binary,5,Urban,Adults
+45,female,5,Sub_Urban,Adults
+22,non-binary,2,Rural,Young Adults
+64,non-binary,5,Urban,Aged
+47,male,4,Sub_Urban,Adults
+63,male,1,Rural,Aged
+22,non-binary,3,Sub_Urban,Young Adults
+29,male,1,Sub_Urban,Young Adults
+33,female,5,Urban,Adults
+43,female,4,Urban,Adults
+43,male,7,Urban,Adults
+38,female,5,Sub_Urban,Adults
+56,male,4,Urban,Aged
+53,non-binary,2,Sub_Urban,Aged
+50,non-binary,4,Sub_Urban,Adults
+47,female,2,Urban,Adults
+54,male,8,Rural,Aged
+40,male,3,Rural,Adults
+27,female,9,Rural,Young Adults
+22,non-binary,4,Sub_Urban,Young Adults
+53,female,6,Sub_Urban,Aged
+51,non-binary,5,Sub_Urban,Aged
+48,male,1,Urban,Adults
+27,non-binary,9,Sub_Urban,Young Adults
+36,female,1,Urban,Adults
+49,male,8,Urban,Adults
+18,female,9,Rural,Young Adults
+22,female,9,Rural,Young Adults
+62,non-binary,1,Rural,Aged
+21,female,2,Urban,Young Adults
+33,non-binary,1,Urban,Adults
+41,male,2,Urban,Adults
+33,non-binary,8,Sub_Urban,Adults
+19,male,5,Urban,Young Adults
+45,non-binary,7,Rural,Adults
+49,female,2,Rural,Adults
+44,non-binary,8,Urban,Adults
+37,non-binary,6,Urban,Adults
+41,male,8,Rural,Adults
+29,female,1,Urban,Young Adults
+52,non-binary,1,Rural,Aged
+50,female,7,Sub_Urban,Adults
+50,non-binary,8,Rural,Adults
+60,non-binary,3,Sub_Urban,Aged
+54,female,5,Urban,Aged
+29,non-binary,1,Urban,Young Adults
+20,female,7,Sub_Urban,Young Adults
+18,non-binary,5,Urban,Young Adults
+50,male,8,Sub_Urban,Adults
+57,female,8,Urban,Aged
+27,non-binary,9,Rural,Young Adults
+60,non-binary,7,Urban,Aged
+61,male,1,Rural,Aged
+46,female,3,Rural,Adults
+30,non-binary,8,Sub_Urban,Young Adults
+29,male,3,Urban,Young Adults
+48,non-binary,8,Sub_Urban,Adults
+63,female,1,Urban,Aged
+19,non-binary,5,Rural,Young Adults
+52,non-binary,4,Rural,Aged
+40,non-binary,5,Urban,Adults
+34,non-binary,8,Urban,Adults
+43,male,4,Sub_Urban,Adults
+25,male,4,Urban,Young Adults
+46,female,3,Urban,Adults
+43,male,7,Urban,Adults
+27,male,3,Sub_Urban,Young Adults
+43,female,3,Urban,Adults
+51,male,5,Rural,Aged
+58,male,5,Sub_Urban,Aged
+24,female,6,Sub_Urban,Young Adults
+21,female,8,Rural,Young Adults
+62,female,6,Rural,Aged
+28,non-binary,1,Rural,Young Adults
+46,non-binary,8,Urban,Adults
+53,female,8,Rural,Aged
+42,female,9,Urban,Adults
+38,female,9,Sub_Urban,Adults
+53,non-binary,2,Sub_Urban,Aged
+27,non-binary,2,Rural,Young Adults
+54,male,3,Urban,Aged
+26,male,1,Rural,Young Adults
+41,female,4,Rural,Adults
+52,non-binary,4,Urban,Aged
+52,non-binary,9,Rural,Aged
+53,non-binary,9,Sub_Urban,Aged
+35,female,9,Rural,Adults
+56,male,7,Urban,Aged
+49,female,2,Urban,Adults
+41,male,5,Sub_Urban,Adults
+40,male,4,Urban,Adults
+49,female,8,Urban,Adults
+54,male,2,Sub_Urban,Aged
+29,male,6,Rural,Young Adults
+30,non-binary,5,Sub_Urban,Young Adults
+40,male,2,Rural,Adults
+42,female,1,Sub_Urban,Adults
+52,female,8,Rural,Aged
+58,male,2,Sub_Urban,Aged
+47,non-binary,7,Rural,Adults
+34,non-binary,9,Sub_Urban,Adults
+37,male,9,Rural,Adults
+42,male,8,Sub_Urban,Adults
+39,female,9,Urban,Adults
+30,male,2,Rural,Young Adults
+36,non-binary,6,Sub_Urban,Adults
+53,male,4,Rural,Aged
+29,female,4,Rural,Young Adults
+58,female,5,Sub_Urban,Aged
+36,female,3,Rural,Adults
+29,female,1,Sub_Urban,Young Adults
+26,female,8,Urban,Young Adults
+24,male,5,Rural,Young Adults
+45,male,3,Urban,Adults
+31,male,7,Rural,Adults
+48,male,7,Rural,Adults
+36,female,1,Rural,Adults
+64,non-binary,9,Sub_Urban,Aged
+33,male,2,Urban,Adults
+22,non-binary,5,Rural,Young Adults
+52,male,5,Sub_Urban,Aged
+29,male,8,Rural,Young Adults
+42,non-binary,8,Sub_Urban,Adults
+38,female,7,Rural,Adults
+53,male,7,Urban,Aged
+40,male,6,Urban,Adults
+33,male,6,Rural,Adults
+56,non-binary,9,Sub_Urban,Aged
+62,female,6,Rural,Aged
+59,non-binary,2,Sub_Urban,Aged
+56,non-binary,2,Rural,Aged
+31,female,5,Sub_Urban,Adults
+48,non-binary,4,Urban,Adults
+22,female,2,Rural,Young Adults
+52,male,3,Urban,Aged
+40,female,7,Urban,Adults
+46,male,8,Rural,Adults
+60,non-binary,6,Rural,Aged
+28,non-binary,5,Sub_Urban,Young Adults
+35,male,1,Sub_Urban,Adults
+64,non-binary,8,Urban,Aged
+29,female,3,Sub_Urban,Young Adults
+26,male,6,Sub_Urban,Young Adults
+27,non-binary,3,Rural,Young Adults
+61,male,7,Sub_Urban,Aged
+34,female,7,Urban,Adults
+55,female,9,Sub_Urban,Aged
+24,non-binary,5,Urban,Young Adults
+63,female,8,Rural,Aged
+30,male,8,Urban,Young Adults
+57,female,1,Sub_Urban,Aged
+59,male,5,Rural,Aged
+26,male,3,Sub_Urban,Young Adults
+44,female,1,Rural,Adults
+19,non-binary,4,Rural,Young Adults
+22,female,8,Sub_Urban,Young Adults
+46,male,3,Sub_Urban,Adults
+54,male,2,Rural,Aged
+55,female,9,Rural,Aged
+36,non-binary,5,Sub_Urban,Adults
+25,non-binary,7,Urban,Young Adults
+62,male,2,Sub_Urban,Aged
+18,male,9,Rural,Young Adults
+39,non-binary,9,Sub_Urban,Adults
+34,female,4,Urban,Adults
+24,male,4,Sub_Urban,Young Adults
+42,male,6,Rural,Adults
+62,non-binary,6,Sub_Urban,Aged
+21,female,1,Rural,Young Adults
+53,non-binary,9,Rural,Aged
+23,female,2,Sub_Urban,Young Adults
+48,female,5,Rural,Adults
+36,female,9,Rural,Adults
+61,male,4,Urban,Aged
+56,non-binary,3,Urban,Aged
+44,non-binary,7,Urban,Adults
+27,female,6,Urban,Young Adults
+43,male,8,Rural,Adults
+36,male,3,Sub_Urban,Adults
+56,non-binary,5,Rural,Aged
+20,male,4,Rural,Young Adults
+62,male,4,Rural,Aged
+30,female,4,Sub_Urban,Young Adults
+45,male,8,Urban,Adults
+37,female,6,Rural,Adults
+45,non-binary,3,Rural,Adults
+25,male,5,Urban,Young Adults
+58,non-binary,6,Rural,Aged
+56,non-binary,5,Sub_Urban,Aged
+18,male,6,Rural,Young Adults
+20,male,8,Rural,Young Adults
+30,non-binary,7,Urban,Young Adults
+45,male,5,Rural,Adults
+42,female,6,Rural,Adults
+50,female,4,Sub_Urban,Adults
+55,male,9,Urban,Aged
+23,non-binary,4,Urban,Young Adults
+61,male,1,Sub_Urban,Aged
+62,male,7,Rural,Aged
+49,non-binary,7,Urban,Adults
+62,non-binary,4,Urban,Aged
+64,female,3,Rural,Aged
+38,non-binary,8,Rural,Adults
+33,female,5,Urban,Adults
+38,non-binary,7,Rural,Adults
+28,male,4,Urban,Young Adults
+54,female,4,Rural,Aged
+53,female,8,Rural,Aged
+52,female,8,Sub_Urban,Aged
+36,male,2,Rural,Adults
+37,male,2,Sub_Urban,Adults
+35,male,3,Rural,Adults
+64,male,3,Urban,Aged
+58,male,1,Urban,Aged
+31,female,3,Rural,Adults
+32,male,6,Rural,Adults
+48,female,8,Urban,Adults
+18,male,6,Rural,Young Adults
+20,non-binary,5,Sub_Urban,Young Adults
+33,female,4,Sub_Urban,Adults
+40,non-binary,3,Sub_Urban,Adults
+28,female,4,Sub_Urban,Young Adults
+29,non-binary,7,Sub_Urban,Young Adults
+27,male,1,Rural,Young Adults
+49,male,7,Rural,Adults
+33,male,1,Sub_Urban,Adults
+25,female,2,Rural,Young Adults
+55,non-binary,4,Rural,Aged
+29,male,1,Sub_Urban,Young Adults
+41,non-binary,9,Rural,Adults
+45,non-binary,6,Rural,Adults
+25,male,1,Rural,Young Adults
+45,male,1,Sub_Urban,Adults
+53,non-binary,6,Rural,Aged
+43,male,4,Urban,Adults
+25,male,4,Urban,Young Adults
+45,male,6,Sub_Urban,Adults
+45,female,7,Urban,Adults
+54,non-binary,9,Sub_Urban,Aged
+58,non-binary,5,Urban,Aged
+53,female,9,Urban,Aged
+44,non-binary,4,Urban,Adults
+34,male,2,Sub_Urban,Adults
+26,non-binary,3,Sub_Urban,Young Adults
+50,male,1,Rural,Adults
+37,female,6,Sub_Urban,Adults
+30,male,6,Urban,Young Adults
+45,non-binary,1,Urban,Adults
+46,non-binary,3,Sub_Urban,Adults
+30,non-binary,5,Sub_Urban,Young Adults
+63,female,3,Sub_Urban,Aged
+52,female,3,Rural,Aged
+23,non-binary,3,Urban,Young Adults
+35,male,5,Rural,Adults
+22,female,5,Rural,Young Adults
+64,non-binary,4,Urban,Aged
+42,non-binary,1,Urban,Adults
+19,female,5,Sub_Urban,Young Adults
+27,female,5,Sub_Urban,Young Adults
+47,female,4,Rural,Adults
+62,male,6,Sub_Urban,Aged
+22,male,4,Sub_Urban,Young Adults
+50,non-binary,7,Urban,Adults
+18,female,7,Urban,Young Adults
+35,male,2,Sub_Urban,Adults
+49,female,3,Urban,Adults
+64,non-binary,1,Sub_Urban,Aged
+28,male,8,Urban,Young Adults
+38,male,9,Urban,Adults
+43,male,4,Urban,Adults
+42,non-binary,6,Urban,Adults
+39,female,9,Sub_Urban,Adults
+44,male,6,Rural,Adults
+30,non-binary,9,Urban,Young Adults
+50,female,4,Sub_Urban,Adults
+51,non-binary,8,Sub_Urban,Aged
+58,female,9,Urban,Aged
+52,non-binary,4,Rural,Aged
+18,female,5,Urban,Young Adults
+38,male,8,Sub_Urban,Adults
+23,female,6,Rural,Young Adults
+45,non-binary,7,Sub_Urban,Adults
+34,non-binary,3,Urban,Adults
+22,female,7,Rural,Young Adults
+48,male,8,Sub_Urban,Adults
+22,male,6,Sub_Urban,Young Adults
+55,female,9,Sub_Urban,Aged
+20,female,6,Urban,Young Adults
+40,non-binary,9,Rural,Adults
+54,male,4,Urban,Aged
+54,female,8,Urban,Aged
+27,male,4,Urban,Young Adults
+27,female,2,Rural,Young Adults
+36,female,9,Urban,Adults
+34,male,5,Urban,Adults
+38,female,4,Urban,Adults
+31,female,2,Urban,Adults
+26,non-binary,1,Sub_Urban,Young Adults
+63,female,7,Urban,Aged
+18,female,6,Sub_Urban,Young Adults
+62,female,2,Urban,Aged
+30,non-binary,8,Rural,Young Adults
+21,male,4,Sub_Urban,Young Adults
+18,non-binary,8,Sub_Urban,Young Adults
+57,non-binary,7,Sub_Urban,Aged
+49,male,5,Sub_Urban,Adults
+51,non-binary,8,Rural,Aged
+45,male,9,Urban,Adults
+48,non-binary,5,Sub_Urban,Adults
+25,male,5,Rural,Young Adults
+56,female,2,Sub_Urban,Aged
+43,non-binary,5,Urban,Adults
+51,non-binary,3,Sub_Urban,Aged
+20,non-binary,7,Rural,Young Adults
+29,non-binary,5,Urban,Young Adults
+18,female,8,Rural,Young Adults
+61,non-binary,1,Urban,Aged
+22,female,3,Urban,Young Adults
+47,female,3,Urban,Adults
+47,female,9,Sub_Urban,Adults
+34,female,5,Rural,Adults
+64,male,9,Rural,Aged
+40,male,9,Rural,Adults
+32,non-binary,1,Urban,Adults
+54,male,2,Sub_Urban,Aged
+38,male,5,Urban,Adults
+31,non-binary,4,Rural,Adults
+19,non-binary,9,Sub_Urban,Young Adults
+28,non-binary,7,Sub_Urban,Young Adults
+56,male,6,Sub_Urban,Aged
+55,male,7,Rural,Aged
+51,non-binary,1,Sub_Urban,Aged
+55,female,1,Sub_Urban,Aged
+51,non-binary,8,Urban,Aged
+35,female,2,Urban,Adults
+47,female,9,Sub_Urban,Adults
+32,non-binary,7,Sub_Urban,Adults
+44,non-binary,6,Urban,Adults
+51,non-binary,1,Urban,Aged
+55,male,1,Urban,Aged
+50,female,2,Rural,Adults
+41,male,6,Rural,Adults
+32,male,6,Urban,Adults
+47,non-binary,2,Sub_Urban,Adults
+59,male,1,Urban,Aged
+34,non-binary,5,Rural,Adults
+22,female,5,Sub_Urban,Young Adults
+46,non-binary,2,Rural,Adults
+21,male,6,Sub_Urban,Young Adults
+27,male,9,Rural,Young Adults
+34,non-binary,2,Sub_Urban,Adults
+27,non-binary,2,Sub_Urban,Young Adults
+34,male,3,Sub_Urban,Adults
+37,female,7,Sub_Urban,Adults
+41,female,6,Rural,Adults
+22,non-binary,8,Rural,Young Adults
+51,female,8,Sub_Urban,Aged
+23,male,6,Sub_Urban,Young Adults
+19,non-binary,3,Rural,Young Adults
+30,male,3,Sub_Urban,Young Adults
+60,male,1,Sub_Urban,Aged
+60,female,7,Sub_Urban,Aged
+28,non-binary,5,Urban,Young Adults
+64,non-binary,4,Sub_Urban,Aged
+40,female,4,Urban,Adults
+33,male,4,Sub_Urban,Adults
+48,male,6,Rural,Adults
+28,male,8,Urban,Young Adults
+33,male,8,Urban,Adults
+25,non-binary,5,Sub_Urban,Young Adults
+21,non-binary,6,Sub_Urban,Young Adults
+57,female,4,Urban,Aged
+21,female,9,Rural,Young Adults
+42,non-binary,8,Rural,Adults
+20,non-binary,1,Sub_Urban,Young Adults
+49,male,2,Rural,Adults
+20,male,9,Rural,Young Adults
+44,female,8,Sub_Urban,Adults
+46,non-binary,3,Rural,Adults
+49,female,8,Sub_Urban,Adults
+36,non-binary,1,Urban,Adults
+38,male,4,Sub_Urban,Adults
+22,female,3,Urban,Young Adults
+35,female,6,Urban,Adults
+45,non-binary,7,Rural,Adults
+59,male,4,Rural,Aged
+39,female,7,Rural,Adults
+38,male,9,Sub_Urban,Adults
+23,female,2,Rural,Young Adults
+18,male,3,Urban,Young Adults
+22,non-binary,5,Rural,Young Adults
+58,female,3,Rural,Aged
+29,female,8,Sub_Urban,Young Adults
+43,male,8,Sub_Urban,Adults
+63,male,8,Urban,Aged
+51,female,9,Sub_Urban,Aged
+31,non-binary,4,Rural,Adults
+43,male,5,Sub_Urban,Adults
+62,male,5,Urban,Aged
+44,male,8,Rural,Adults
+26,female,7,Urban,Young Adults
+43,female,9,Sub_Urban,Adults
+64,female,8,Sub_Urban,Aged
+39,female,2,Urban,Adults
+64,non-binary,4,Rural,Aged
+47,non-binary,6,Sub_Urban,Adults
+60,female,2,Sub_Urban,Aged
+34,non-binary,7,Rural,Adults
+43,male,3,Sub_Urban,Adults
+53,male,3,Urban,Aged
+18,male,2,Sub_Urban,Young Adults
+25,female,8,Sub_Urban,Young Adults
+52,male,6,Rural,Aged
+32,non-binary,1,Urban,Adults
+64,female,1,Rural,Aged
+39,non-binary,7,Sub_Urban,Adults
+31,male,8,Sub_Urban,Adults
+43,male,5,Rural,Adults
+45,male,5,Rural,Adults
+40,female,4,Rural,Adults
+31,non-binary,6,Urban,Adults
+41,female,6,Sub_Urban,Adults
+19,female,3,Rural,Young Adults
+62,male,9,Sub_Urban,Aged
+43,female,7,Urban,Adults
+31,female,1,Urban,Adults
+24,male,7,Urban,Young Adults
+20,female,5,Urban,Young Adults
+64,male,5,Sub_Urban,Aged
+40,male,2,Urban,Adults
+63,male,4,Urban,Aged
+60,male,6,Rural,Aged
+64,female,7,Urban,Aged
+62,male,5,Rural,Aged
+35,male,9,Urban,Adults
+55,female,3,Urban,Aged
+52,female,1,Rural,Aged
+32,non-binary,4,Urban,Adults
+42,female,9,Sub_Urban,Adults
+54,female,4,Sub_Urban,Aged
+45,non-binary,2,Urban,Adults
+27,female,5,Sub_Urban,Young Adults
+56,female,3,Rural,Aged
+34,female,9,Urban,Adults
+56,female,4,Urban,Aged
+39,non-binary,6,Rural,Adults
+43,female,2,Rural,Adults
+61,female,6,Rural,Aged
+42,non-binary,3,Urban,Adults
+34,male,9,Rural,Adults
+30,non-binary,2,Rural,Young Adults
+37,male,9,Sub_Urban,Adults
+42,non-binary,5,Sub_Urban,Adults
+21,non-binary,8,Urban,Young Adults
+27,female,2,Sub_Urban,Young Adults
+20,male,6,Sub_Urban,Young Adults
+58,female,3,Rural,Aged
+62,male,5,Rural,Aged
+35,non-binary,8,Sub_Urban,Adults
+64,non-binary,1,Sub_Urban,Aged
+53,male,5,Sub_Urban,Aged
+64,female,3,Urban,Aged
+39,female,4,Urban,Adults
+51,female,2,Urban,Aged
+64,female,9,Sub_Urban,Aged
+25,non-binary,3,Sub_Urban,Young Adults
+57,non-binary,2,Urban,Aged
+61,non-binary,9,Urban,Aged
+36,non-binary,7,Sub_Urban,Adults
+59,non-binary,6,Rural,Aged
+58,female,1,Urban,Aged
+54,female,5,Sub_Urban,Aged
+23,female,3,Sub_Urban,Young Adults
+43,female,1,Rural,Adults
+51,non-binary,4,Sub_Urban,Aged
+62,non-binary,2,Sub_Urban,Aged
+23,non-binary,2,Urban,Young Adults
+54,male,3,Urban,Aged
+50,female,8,Rural,Adults
+39,female,8,Rural,Adults
+38,non-binary,7,Sub_Urban,Adults
+23,female,6,Urban,Young Adults
+23,female,9,Rural,Young Adults
+21,non-binary,4,Rural,Young Adults
+47,male,1,Rural,Adults
+28,male,8,Sub_Urban,Young Adults
+47,male,7,Urban,Adults
+48,non-binary,7,Rural,Adults
+41,female,3,Urban,Adults
+26,non-binary,4,Rural,Young Adults
+20,non-binary,9,Rural,Young Adults
+48,female,6,Urban,Adults
+57,male,5,Urban,Aged
+54,male,3,Urban,Aged
+53,non-binary,9,Sub_Urban,Aged
+41,male,5,Rural,Adults
+48,non-binary,5,Sub_Urban,Adults
+23,non-binary,4,Urban,Young Adults
+19,female,4,Rural,Young Adults
+37,female,1,Sub_Urban,Adults
+45,female,7,Rural,Adults
+28,non-binary,9,Sub_Urban,Young Adults
+21,female,3,Urban,Young Adults
+32,male,2,Sub_Urban,Adults
+23,male,3,Rural,Young Adults
+47,non-binary,1,Rural,Adults
+55,non-binary,6,Rural,Aged
+19,female,7,Rural,Young Adults
+32,non-binary,2,Urban,Adults
+28,non-binary,8,Sub_Urban,Young Adults
+25,male,6,Urban,Young Adults
+43,male,4,Urban,Adults
+62,female,5,Urban,Aged
+61,non-binary,8,Rural,Aged
+22,non-binary,3,Rural,Young Adults
+23,male,3,Rural,Young Adults
+43,non-binary,4,Sub_Urban,Adults
+21,male,1,Rural,Young Adults
+36,female,9,Sub_Urban,Adults
+37,male,8,Rural,Adults
+50,non-binary,8,Rural,Adults
+37,female,6,Urban,Adults
+29,male,7,Urban,Young Adults
+64,male,6,Urban,Aged
+18,female,9,Sub_Urban,Young Adults
+43,female,3,Sub_Urban,Adults
+31,male,3,Rural,Adults
+55,non-binary,3,Sub_Urban,Aged
+54,male,3,Rural,Aged
+28,female,9,Sub_Urban,Young Adults
+53,male,4,Sub_Urban,Aged
+30,female,7,Sub_Urban,Young Adults
+60,female,9,Urban,Aged
+20,non-binary,7,Sub_Urban,Young Adults
+50,female,9,Urban,Adults
+23,female,3,Urban,Young Adults
+27,non-binary,4,Sub_Urban,Young Adults
+22,female,8,Rural,Young Adults
+40,non-binary,6,Rural,Adults
+27,non-binary,5,Rural,Young Adults
+61,female,4,Sub_Urban,Aged
+19,female,8,Rural,Young Adults
