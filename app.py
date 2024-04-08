@@ -140,19 +140,22 @@ def visualize_line_chart(data):
 
 
 def visualize_relationship(data):
-    st.header('Hubungan Waktu yang Dihabiskan di Media Sosial dengan Usia dan Gender')
+    st.header('Hubungan Waktu yang Dihabiskan di Media Sosial dengan Usia')
     fig, ax = plt.subplots()
-    sns.scatterplot(data=data, x='age', y='time_spent', hue='gender', style='gender', palette='coolwarm', alpha=0.6)
-    plt.title('Hubungan Waktu yang Dihabiskan dengan Usia Berdasarkan Gender')
+    sns.scatterplot(data=data, x='age', y='time_spent', palette='coolwarm', alpha=0.6)
+    plt.title('Hubungan Waktu yang Dihabiskan dengan Usia')
     plt.xlabel('Usia')
-    plt.ylabel('Waktu yang Dihabiskan')
+    plt.ylabel('Waktu yang Dihabiskan di Media Sosial')
     st.pyplot(fig)
 
+    age_relation_value = data['age'].corr(data['time_spent'])
+    age_relation = 'positif' if age_relation_value > 0 else 'negatif'
+
     st.header("Kesimpulan")
-    st.write(
-        "Visualisasi di atas menunjukkan bagaimana waktu yang dihabiskan di media sosial berhubungan dengan usia pengguna, dengan membedakan gender. Ini dapat memberikan insight tentang kelompok usia dan gender mana yang lebih aktif atau menghabiskan lebih banyak waktu di media sosial.")
-
-
+    st.markdown(
+        f"Hubungan antara usia dan waktu yang dihabiskan di media sosial adalah {age_relation}, "
+        f"dengan nilai korelasi sebesar {age_relation_value:.2f}."
+    )
 def main():
     show_title()
     df = load_data()
